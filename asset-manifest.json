@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leadzen-react-app/static/css/main.e6c13ad2.css",
+    "main.js": "/leadzen-react-app/static/js/main.acc141fa.js",
+    "static/js/787.14665b0a.chunk.js": "/leadzen-react-app/static/js/787.14665b0a.chunk.js",
+    "index.html": "/leadzen-react-app/index.html",
+    "main.e6c13ad2.css.map": "/leadzen-react-app/static/css/main.e6c13ad2.css.map",
+    "main.acc141fa.js.map": "/leadzen-react-app/static/js/main.acc141fa.js.map",
+    "787.14665b0a.chunk.js.map": "/leadzen-react-app/static/js/787.14665b0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.acc141fa.js"
+  ]
+}
